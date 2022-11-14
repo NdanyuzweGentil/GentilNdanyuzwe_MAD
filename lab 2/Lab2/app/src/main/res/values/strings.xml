@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Lab2</string>
+    <string name="helloMessage">Hello</string>
+    <string name="puppy">puppy</string>
+    <string name="buttonHello">Hello Button</string>
+    <string name="entryField">Enter Your Name</string>
+</resources>
