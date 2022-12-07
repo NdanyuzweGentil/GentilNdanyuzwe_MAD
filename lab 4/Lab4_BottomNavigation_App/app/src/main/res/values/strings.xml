@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Lab4_BottomNavigation_App</string>
+    <string name="top_bar">Android Lab4 App</string>
+    <string name="home">Home Page</string>
+    <string name="profile">Profile Page</string>
+    <string name="settings">Settings Page</string>
+</resources>
